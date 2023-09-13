@@ -1,0 +1,15 @@
+1  149.31.160.9 (149.31.160.9)  3.059 ms  3.239 ms  3.760 ms
+2  65f-55f_ngfw_internal.newschool.edu (10.5.5.2)  2.224 ms  2.211 ms  2.045 ms
+3  32a-65f_br-vss_v733.newschool.edu (149.31.1.1)  5.403 ms  4.479 ms  10.000 ms
+4  199.109.105.105 (199.109.105.105)  4.246 ms  3.276 ms  3.821 ms
+5  [nyc32-55a1-nyc32-9208-cdn.nysernet.net](http://nyc32-55a1-nyc32-9208-cdn.nysernet.net/) (199.109.107.202)  3.633 ms  4.936 ms  5.413 ms
+6  17.1.146.86 (17.1.146.86)  3.977 ms  3.589 ms  3.676 ms
+7  [apple.es](http://apple.es/) (17.253.144.10)  2.998 ms !Z  3.842 ms !Z  2.963 ms !Z
+
+## New York City
+
+Times Square is named after the New York Times. It was originally called Longacre Square until the Times moved there in 1904.
+
+## Cupertino
+
+****Almost all of the land within Cupertino’s present-day boundaries was covered by prune, plum, apricot, and cherry orchards.
